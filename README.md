@@ -1,0 +1,2 @@
+# CPSC350_SP21_ASSIGNMENT0
+Assignment 0 for CPSC 350 class
